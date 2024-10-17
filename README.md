@@ -55,10 +55,10 @@ dt.predict([[5,6]])
 ```
 
 ## Output:
-![Screenshot 2024-10-17 103647](https://github.com/user-attachments/assets/4e211138-0aec-413a-af80-7614145f150d)
-![Screenshot 2024-10-17 103359](https://github.com/user-attachments/assets/e65374a7-b546-4ce8-ac37-3bb633254a04)<p>
-![Screenshot 2024-10-17 103427](https://github.com/user-attachments/assets/2ff52bae-b1d8-4337-a5df-9d81a0f05f36)
+![Screenshot 2024-10-17 114057](https://github.com/user-attachments/assets/40dc2968-8497-4402-84ff-58553f58effe)
+![Screenshot 2024-10-17 114108](https://github.com/user-attachments/assets/374fd329-1d52-4daa-83d0-307f16480721)
+![Screenshot 2024-10-17 114117](https://github.com/user-attachments/assets/5e288570-db31-43b7-948e-22d847c4e626)
+![Screenshot 2024-10-17 114124](https://github.com/user-attachments/assets/1183818b-1980-4a76-ae4c-99cd6fa91801)
+![Screenshot 2024-10-17 114153](https://github.com/user-attachments/assets/58c2224a-dbda-40c0-aed4-b5eac671a5a2)
 
-
-## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
